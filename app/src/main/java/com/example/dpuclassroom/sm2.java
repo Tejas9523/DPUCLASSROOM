@@ -1,0 +1,51 @@
+package com.example.dpuclassroom;
+
+import android.os.Bundle;
+import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+
+import com.example.dpuclassroom.databinding.ActivityTm2Binding;
+import com.firebase.ui.database.FirebaseRecyclerOptions;
+import com.google.firebase.database.FirebaseDatabase;
+
+public class sm2 extends AppCompatActivity {
+    ActivityTm2Binding binding;
+    m2adapter adapter;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        binding= ActivityTm2Binding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
+        getSupportActionBar().hide();
+
+        binding.floatingActionButtonm2.setVisibility(View.INVISIBLE);
+
+        binding.recviewm2.setLayoutManager(new LinearLayoutManager(this));
+
+        FirebaseRecyclerOptions<model> options =
+                new FirebaseRecyclerOptions.Builder<model>()
+                        .setQuery(FirebaseDatabase.getInstance().getReference().child("Mydocuments").child("m2"),model.class)
+                        .build();
+
+
+
+
+        adapter = new m2adapter(options);
+        binding.recviewm2.setAdapter(adapter);
+    }
+
+    @Override
+    protected void onStart(){
+        super.onStart();
+        adapter.startListening();
+    }
+
+    @Override
+    protected void onStop(){
+        super.onStop();
+        adapter.stopListening();
+    }
+}

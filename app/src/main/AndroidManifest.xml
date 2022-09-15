@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.dpuclassroom" >
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DPUCLASSROOM" >
+        <activity
+            android:name=".uploadmech"
+            android:exported="false" />
+        <activity
+            android:name=".tmech"
+            android:exported="false" />
+        <activity
+            android:name=".smec"
+            android:exported="false" />
+        <activity
+            android:name=".spps"
+            android:exported="false" />
+        <activity
+            android:name=".uploadpps"
+            android:exported="false" />
+        <activity
+            android:name=".tpps"
+            android:exported="false" />
+        <activity
+            android:name=".ssme"
+            android:exported="false" />
+        <activity
+            android:name=".uploadsme"
+            android:exported="false" />
+        <activity
+            android:name=".tsme"
+            android:exported="false" />
+        <activity
+            android:name=".sbee"
+            android:exported="false" />
+        <activity
+            android:name=".uploadbee"
+            android:exported="false" />
+        <activity
+            android:name=".tbee"
+            android:exported="false" />
+        <activity
+            android:name=".sbxe"
+            android:exported="false" />
+        <activity
+            android:name=".uploadbxe"
+            android:exported="false" />
+        <activity
+            android:name=".tbxe"
+            android:exported="false" />
+        <activity
+            android:name=".sphy"
+            android:exported="false" />
+        <activity
+            android:name=".uploadphy"
+            android:exported="false" />
+        <activity
+            android:name=".tphy"
+            android:exported="false" />
+        <activity
+            android:name=".sm2"
+            android:exported="false" />
+        <activity
+            android:name=".uploadm2"
+            android:exported="false" />
+        <activity
+            android:name=".tm2"
+            android:exported="false" />
+        <activity
+            android:name=".schem"
+            android:exported="false" />
+        <activity
+            android:name=".sm1"
+            android:exported="false" />
+        <activity
+            android:name=".uploadm1"
+            android:exported="false" />
+        <activity
+            android:name=".tm1"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".viewpdf"
+            android:exported="false" />
+        <activity
+            android:name=".uploadfile"
+            android:exported="false" />
+        <activity
+            android:name=".tchem"
+            android:exported="false" />
+        <activity
+            android:name=".divT"
+            android:exported="false" />
+        <activity
+            android:name=".teacher"
+            android:exported="false" />
+        <activity
+            android:name=".div"
+            android:exported="false" />
+        <activity
+            android:name=".student"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name=".messagingservice"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.RESPOND_VIA_MESSAGE" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

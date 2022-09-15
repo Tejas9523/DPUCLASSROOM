@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932704636841",
+    "project_id": "dpuclassroom-c2f2f",
+    "storage_bucket": "dpuclassroom-c2f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932704636841:android:ee5fadb47ea180f61bfeb8",
+        "android_client_info": {
+          "package_name": "com.example.dpuclassroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932704636841-2dhoq68kdq6qvmgjot2593m3nnuf9kg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0HOhjyyLXLrbHRn_Oulw4iwb-_ggnrlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932704636841-2dhoq68kdq6qvmgjot2593m3nnuf9kg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

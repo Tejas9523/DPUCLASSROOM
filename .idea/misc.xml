@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tejas-pc/Documents/DPUCLASSROOM/app/src/main/res/layout/activity_tchem.xml" value="0.22" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/drawable/backtab.xml" value="0.201" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/drawable/round_button.xml" value="0.201" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/drawable/rowback.xml" value="0.224" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/drawable/sub.xml" value="0.189" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/drawable/upload.xml" value="0.197" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_div.xml" value="0.25" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_div_t.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_sbxe.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_schem.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_sm1.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_student.xml" value="0.1" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tbee.xml" value="0.203125" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tbxe.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tchem.xml" value="0.1" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_teacher.xml" value="0.18" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tm1.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tm2.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tmec.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tmec2.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tmech.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tphy.xml" value="0.203125" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tpps.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_tsme.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadbee.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadbxe.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadfile.xml" value="0.18" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadm1.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadm2.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadmec.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadmech.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadphy.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadpps.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_uploadsme.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/activity_viewpdf.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/content_tmec.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/fragment_first.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/fragment_second.xml" value="0.2171875" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/pass.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/layout/singlerowdesign.xml" value="0.33" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.201" />
+        <entry key="..\:/Users/Tejas-pc/Documents/hackathon/DPUCLASSROOM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1015" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
